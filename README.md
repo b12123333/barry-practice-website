@@ -1,4 +1,5 @@
 # barry
+可至dist中查看打包後的前端網頁代碼。
 
 ## Project setup
 ```
